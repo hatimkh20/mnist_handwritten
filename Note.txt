@@ -1,5 +1,0 @@
-Deep Learning Assignment 01
-
-MNIST Handwritten Digit Classification
-
-Roll Number: CS182003
